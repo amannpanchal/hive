@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+9import React, { useState } from 'react';
 import { Flex, Box, Heading, Spacer, IconButton, useDisclosure, Button, VStack, Link } from "@chakra-ui/react";
 import { HamburgerIcon, CloseIcon } from '@chakra-ui/icons';
 import { Link as RouterLink, useLocation,useNavigate } from 'react-router-dom';
@@ -34,7 +34,7 @@ const Navbar = () => {
             top="0"
             width="98vw"
             backgroundColor="white"
-            zIndex={""}
+            zIndex={"666"}
 
          
             padding="1rem"
